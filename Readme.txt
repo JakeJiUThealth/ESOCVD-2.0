@@ -1,4 +1,4 @@
-Our computational platfrom includes two modules: 
+Our computational platform includes two modules: 
 1) A matlab-based package for sample ordering (assign each sample to the Pseudo-timeline 24h);
 2) A R-based package for oscillatory rhythm detection.
 
